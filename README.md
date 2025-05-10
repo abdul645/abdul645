@@ -1,17 +1,17 @@
-                    ## Hi there 👋, Abdul Azeem
+# Hi there 👋, Abdul Azeem
 
-        I'm a Passionate Full stack 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 and Problem solver
-<!--
-**abdul645/abdul645** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Passionate Full stack **Developer** and Problem solver
 
-Here are some ideas to get you started:
+Full stack Developer | Problem-solver | JavaScript | React-Js | Tailwind CSS | Version control | HTML5 | CSS3 | MySQL | DSA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧑‍💻 About Me
+
+-  I'm very Passionate For Programming and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas.  
+-  Love to learn new technologies and to explore new set of areas.  
+-  What's unique about me → Ability to quickly Learn and Master a new skill and to implement it to solve a realtime problems.  
+-  MCA graduate from JSS Academy of technical education.  
+-  Most of my projects are available on Github.
+
+---
