@@ -18,10 +18,10 @@ Backend Developer | Problem-Solver | JavaScript | Node.js/Express.js | MySQL | M
 ---
 ## Skills & Technologies
 
-**Backend:** Node.js, Express.js, REST API, Authentication & Authorization, WebSockets  
-**Database:** MySQL, MongoDB, Database Design & Optimization  
+**Backend:**     Node.js, Express.js, REST API, Authentication & Authorization, WebSockets  
+**Database:**    MySQL, MongoDB, Database Design & Optimization  
 **Frontend:** React.js, Tailwind CSS, HTML5, CSS3  
-**Tools & Others:** Git, GitHub, Postman, Cloud Deployment (Heroku, Render, VPS)  
+**Tools & Others:** Git, GitHub, Postman, Cloud Deployment (AWS, Hostinger, GoDaddy)  
 **Programming:** JavaScript, Java, Python  
 **Concepts:** Data Structures & Algorithms (DSA), Problem Solving  
 
